@@ -1,0 +1,10 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\blini2\source\repos\move_in_console_sshk66\packages\pdcurses_vc120.3.4.0.3\build\native\include\curses.h(153,1): warning C4005: 'MOUSE_MOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincontypes.h(103): message : see previous definition of 'MOUSE_MOVED'
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol _endwin referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol _initscr referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol _printw referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol _refresh referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol _wgetch referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol __imp__stdscr referenced in function _main
+C:\Users\blini2\Source\Repos\move_in_console_sshk66\Debug\ConsoleApplication2.exe : fatal error LNK1120: 6 unresolved externals
