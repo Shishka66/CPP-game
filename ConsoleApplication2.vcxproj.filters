@@ -20,11 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="lib\pdcurses.lib">
-      <Filter>Файлы ресурсов</Filter>
-    </Library>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="include\curses.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
