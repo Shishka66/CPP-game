@@ -15,6 +15,7 @@
 
 int main()
 {
+	int test = 1;
 	int width = 80;
 #pragma region Statements
 	setlocale(LC_CTYPE, "C-UTF-8");
@@ -62,7 +63,7 @@ int main()
 			en->display();
 			wrefresh(vp);
 			wrefresh(textOutput);
-
+			//e?
 			break;
 		}
 	}

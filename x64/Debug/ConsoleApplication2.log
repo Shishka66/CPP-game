@@ -1,23 +1,24 @@
 ﻿  ConsoleApplication2.cpp
 G:\Projects\vcpkg\installed\x64-windows\include\curses.h(190,1): warning C4005: 'MOUSE_MOVED': macro redefinition
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincontypes.h(103): message : see previous definition of 'MOUSE_MOVED'
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(48,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(80,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(110,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(141,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(182,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(187,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(192,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(197,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\ConsoleApplication2.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\blini2\source\repos\move_in_console_sshk66\ConsoleApplication2.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\blini2\source\repos\move_in_console_sshk66\player.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\blini2\source\repos\move_in_console_sshk66\enemies.h(39,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\enemies.h(71,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\enemies.h(97,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\enemies.h(128,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
-C:\Users\blini2\source\repos\move_in_console_sshk66\ConsoleApplication2.cpp(12,1): warning C4005: '_WIN32_WINNT': macro redefinition
+G:\Projects\Git repos\CPP-Game\player.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Projects\Git repos\CPP-Game\player.h(48,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(80,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(110,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(141,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(182,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(187,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(192,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\player.h(197,22): warning C4244: '=': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Projects\Git repos\CPP-Game\player.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Projects\Git repos\CPP-Game\enemies.h(39,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\enemies.h(71,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\enemies.h(97,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\enemies.h(128,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
+G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(12,1): warning C4005: '_WIN32_WINNT': macro redefinition
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
-C:\Users\blini2\source\repos\move_in_console_sshk66\ConsoleApplication2.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ConsoleApplication2.vcxproj -> C:\Users\blini2\source\repos\move_in_console_sshk66\x64\Debug\ConsoleApplication2.exe
+G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication2.vcxproj -> G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.exe

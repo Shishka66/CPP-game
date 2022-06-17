@@ -1,3 +1,6 @@
 C:\Users\blini2\source\repos\move_in_console_sshk66\x64\Debug\ConsoleApplication2.exe
 C:\Users\blini2\source\repos\move_in_console_sshk66\x64\Debug\ConsoleApplication2.vcxproj.CopyComplete
 C:\Users\blini2\source\repos\move_in_console_sshk66\x64\Debug\pdcurses.dll
+G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.vcxproj.CopyComplete
+G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.exe
+G:\Projects\Git repos\CPP-Game\x64\Debug\pdcurses.dll
