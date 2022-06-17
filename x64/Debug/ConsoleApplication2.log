@@ -19,6 +19,5 @@ G:\Projects\Git repos\CPP-Game\enemies.h(97,16): warning C4244: 'initializing': 
 G:\Projects\Git repos\CPP-Game\enemies.h(128,16): warning C4244: 'initializing': conversion from 'chtype' to 'char', possible loss of data
 G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(12,1): warning C4005: '_WIN32_WINNT': macro redefinition
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
-G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  LINK : G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.exe not found or not built by the last incremental link; performing full link
+G:\Projects\Git repos\CPP-Game\ConsoleApplication2.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   ConsoleApplication2.vcxproj -> G:\Projects\Git repos\CPP-Game\x64\Debug\ConsoleApplication2.exe
