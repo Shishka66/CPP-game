@@ -4,8 +4,8 @@
 #include <Windows.h>
 #include <chrono>
 #include <thread>
-#include <curses.h>
-#include <panel.h>
+#include "include/curses.h";
+#include "include/panel.h";
 #include "player.h"
 #include "levels.h"; 
 #include "enemies.h";
